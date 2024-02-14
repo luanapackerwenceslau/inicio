@@ -1,2 +1,2 @@
 # inicio
-inicio das projetos
+inicio dos projetos
